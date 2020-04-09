@@ -1,6 +1,9 @@
 # time-tracker
+
 Java (Maven) application for tracking time on the job
 
 Time tracker
 
-# Causing Trouble
+# Update readme
+
+Github branch examepl README update.
